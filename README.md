@@ -1,6 +1,6 @@
 This is a take-home challenge for the role of data analyst from a mid size tech company in Europe which is doing similar business as Meituan. 
 
-The take-home challenge is using the data from this research project initiated by Meituan. It is focusing on answering two questions:
+The take-home challenge asks candidates to use data from this research project initiated by Meituan. The take-home challenge is focusing on answering two questions:
 
 a. Is there anything to improve for the PtoD (placement to delivery) process?
 
